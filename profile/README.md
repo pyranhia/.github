@@ -1,4 +1,4 @@
-# Pyranhia
+# PYRANHIA
 
 **Formations R · Consulting Data Science & Machine Learning**
 
