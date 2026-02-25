@@ -6,7 +6,7 @@ Docteure en écologie marine et intelligence artificielle, je transmets mon expe
 
 ## Formations
 
-**[Introduction à R](https://pyranhia.eu/formations/intro_a_r.html)** – Devenez autonome en analyse de données (3 jours)
+**Introduction à R)** (à venir) – Devenez autonome en analyse de données (3 jours)
 
 **[Machine Learning avec R](https://pyranhia.eu/formations/machine_learning_avec_r.html)** – Développez des modèles prédictifs performants (5 jours)
 
