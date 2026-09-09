@@ -8,6 +8,8 @@ Docteure en écologie marine et intelligence artificielle, je transmets mon expe
 
 **Introduction à R** (à venir) – Devenez autonome en analyse de données (3 jours)
 
+**[Premiers pas en Machine Learning avec R](https://pyranhia.eu/formations/premiers_pas_ml_r.html)** – Découvrez les bases du Machine Learning supervisé (2 jours)
+
 **[Machine Learning avec R](https://pyranhia.eu/formations/machine_learning_avec_r.html)** – Développez des modèles prédictifs performants (5 jours)
 
 **Formation sur mesure** – Programme personnalisé selon vos besoins
